@@ -1,10 +1,11 @@
 # 介紹
 
-ALPHA Shop I：元件拆分
+ALPHA Shop III：元件實作
 
 ## 預覽圖
 
-![圖片](https://github.com/sigox/3S2A4/assets/131880018/a551d259-7e54-4688-b661-aad98216fd2a)
+![圖片](https://github.com/sigox/3S3A6/assets/131880018/306fbb58-1f1d-4be3-ba6b-4823abde5728)
+
 
 
 ## 執行方式
